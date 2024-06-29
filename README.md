@@ -1,11 +1,9 @@
-This repository covers basic CSS rules.
-Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+Smile Project
 
-General
-What is CSS
-How to add style to an element
-What is a class
-What is a selector
-How to compute CSS Specificity Value
-What are Box properties in CSS
+A presentation of a clear and well designed project using css elements and properties. You will find a well-curated website with sections neatly designed according to the user's needs.
+How to get started:
+1. Clone this repository
+2. Open the project in your code editor
+3. Explore the code
+4. Run it in your browser
+   - The project has been built from scratch using HTML as a markup language and CSS for the presentation. Feel free to adjust the code where necessary and flag down issues that may be ironed out for better accessibility by the user.
