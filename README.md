@@ -7,4 +7,4 @@ How to get started:
 3. Explore the code
 4. Run it in your browser
    - The projects have been built from scratch using HTML as a markup language and CSS for the presentation. Feel free to adjust the code where necessary and flag down issues that may be ironed out for better accessibility by the user.
-Note: For the images used for the (headphones)website navigate to the assets folder and extract the zipped file.
+Note: For the images used for the (headphones)website navigate to the assets folder and extract the zipped file .
